@@ -2,19 +2,19 @@
 
 ## Решения
 ### Задание 1
-* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.7/package.json">package.json</a>.
-* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.7/cypress.config.js">cypress.config.js</a>.
-* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.7/cypress/support/commands.js">commands.js</a>.
-* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/tree/main/7.7/cypress/fixtures">cypress/fixtures</a>.
+* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.7/package.json">package.json</a> со скриптами запуска тестов с различными конфигурациями.
+* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.7/cypress.config.js">cypress.config.js</a> - настройки прогона автотестов.
+* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/7.7/cypress/support/commands.js">commands.js</a> - переиспользуемые методы взаимодействия со страницами.
+* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/tree/main/7.7/cypress/fixtures">cypress/fixtures</a> - репозиторий с тестовыми данными и селекторами.
 * <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/tree/main/7.7/cypress/e2e">cypress/e2e</a>. - Репозиторий с автотестами.
 * <a href="https://cloud.cypress.io/projects/d418g3/runs?branches=%5B%5D&committers=%5B%5D&flaky=%5B%5D&page=1&status=%5B%5D&tags=%5B%5D&timeRange=%7B%22startDate%22%3A%221970-01-01%22%2C%22endDate%22%3A%222038-01-19%22%7D">Dashboard</a> - дашборд с тестами.
 
 <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/tree/main/7.7">Репозиторий</a> с Cypress проектом.
 
 ### Задание 2
-* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/API%207.7/package.json">package.json</a>.
-* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/API%207.7/cypress.config.js">cypress.config.js</a>.
-* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/API%207.7/cypress/support/commands.js">commands.js</a>.
+* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/API%207.7/package.json">package.json</a> - со скриптом запуска тестов cypress.
+* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/API%207.7/cypress.config.js">cypress.config.js</a> с прописанным базовым URL для e2e тестов cypress.
+* <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/API%207.7/cypress/support/commands.js">commands.js</a> - переиспользуемые методы взаимодействия со страницами..
 * <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/API%207.7/cypress/fixtures/api.json">api.json</a> - описание тела запроса.
 * <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/API%207.7/cypress/e2e/api.cy.js">api.cy.js</a> - автотесты.
 * <a href="https://cloud.cypress.io/projects/d418g3/runs?branches=%5B%5D&committers=%5B%5D&flaky=%5B%5D&page=1&status=%5B%5D&tags=%5B%5D&timeRange=%7B%22startDate%22%3A%221970-01-01%22%2C%22endDate%22%3A%222038-01-19%22%7D">Dashboard</a> - дашборд с тестами.
