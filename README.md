@@ -52,6 +52,10 @@
 * Составлены API автотесты <a href="https://github.com/Nephedov/jsaqa-code-Nephedov93/blob/main/API%207.7/cypress/e2e/api.cy.js">api.cy.js</a>.
 * Подключен <a href="https://cloud.cypress.io/projects/8nkxm7/runs?branches=%5B%5D&committers=%5B%5D&flaky=%5B%5D&page=1&status=%5B%5D&tags=%5B%5D&timeRange=%7B%22startDate%22%3A%221970-01-01%22%2C%22endDate%22%3A%222038-01-19%22%7D">Dashboard</a> к проекту.
 
+---
+---
+
+
 ## Описание Задания 1. Cypress. Установка и настройка проекта
 
 1. Изучите [приложение](https://github.com/Evgeniy-Varlamov/FS21-diplom) для работы с бронирование билетов в кино.
